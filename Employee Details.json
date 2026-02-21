@@ -1,0 +1,86 @@
+[
+  {
+    "Name": "Chloe Allen",
+    "Department": "Sales",
+    "Performance Score": 88,
+    "Salary": 5200,
+    "Location City": "New York"
+  },
+  {
+    "Name": "Ruby Scott",
+    "Department": "Marketing",
+    "Performance Score": 92,
+    "Salary": 6100,
+    "Location City": "Chicago"
+  },
+  {
+    "Name": "Ava Martin",
+    "Department": "Engineering",
+    "Performance Score": 95,
+    "Salary": 7500,
+    "Location City": "San Francisco"
+  },
+  {
+    "Name": "John Parker",
+    "Department": "Finance",
+    "Performance Score": 84,
+    "Salary": 6800,
+    "Location City": "Boston"
+  },
+  {
+    "Name": "Liam Johnson",
+    "Department": "Engineering",
+    "Performance Score": 90,
+    "Salary": 7200,
+    "Location City": "Seattle"
+  },
+  {
+    "Name": "Emma Davis",
+    "Department": "HR",
+    "Performance Score": 85,
+    "Salary": 5400,
+    "Location City": "Austin"
+  },
+  {
+    "Name": "Noah Wilson",
+    "Department": "Sales",
+    "Performance Score": 87,
+    "Salary": 5600,
+    "Location City": "Denver"
+  },
+  {
+    "Name": "Olivia Martinez",
+    "Department": "Marketing",
+    "Performance Score": 91,
+    "Salary": 6000,
+    "Location City": "Los Angeles"
+  },
+  {
+    "Name": "William Anderson",
+    "Department": "Finance",
+    "Performance Score": 83,
+    "Salary": 6700,
+    "Location City": "Miami"
+  },
+  {
+    "Name": "Sophia Thomas",
+    "Department": "Engineering",
+    "Performance Score": 96,
+    "Salary": 7800,
+    "Location City": "San Diego"
+  },
+  {
+    "Name": "James Taylor",
+    "Department": "IT",
+    "Performance Score": 89,
+    "Salary": 6400,
+    "Location City": "Phoenix"
+  },
+  {
+    "Name": "Isabella Moore",
+    "Department": "HR",
+    "Performance Score": 86,
+    "Salary": 5500,
+    "Location City": "Dallas"
+  }
+]
